@@ -1,5 +1,18 @@
-@extends('templates.principal')
-@section('title', 'Página Inicial')
+@extends('layouts.main')
+
+@section('titulo')
+    Soluciones digitales
+@endsection
+
+
 @section('content')
-    <h1>HOLA PASIVOTA</h1>
+    <main>
+        @include('home.section-1')
+    </main>
+@endsection
+
+@section('scripts')
+@endsection
+
+@section('styles')
 @endsection
