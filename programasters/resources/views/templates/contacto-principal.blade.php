@@ -5,10 +5,14 @@
         <span></span>
     </div>
 </div>
+<!-- preloader end  -->
+
 <!-- back-to-top-start  -->
 <button class="scroll-top scroll-to-target" data-target="html">
     <i class="far fa-angle-double-up"></i>
 </button>
+<!-- back-to-top-end  -->
+
     <!-- tp-offcanvus-area-start -->
 <div class="tpoffcanvas-area">
     <div class="tpoffcanvas">

@@ -1,5 +1,5 @@
 <li class="has-dropdown">
-    <a href="index.html">Equipo</a>
+    <a href="{{route("equipo")}}">Equipo</a>
     <div class="tp-submenu submenu has-homemenu">
         <div class="row gx-6 row-cols-1 row-cols-md-2 row-cols-xl-5 row-cols-xxl-5">
            <div class="col homemenu">

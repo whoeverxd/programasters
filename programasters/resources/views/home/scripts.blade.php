@@ -1,4 +1,3 @@
-
     <!-- JS here -->
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/waypoints.js"></script>
