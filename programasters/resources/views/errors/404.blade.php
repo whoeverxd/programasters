@@ -1,7 +1,7 @@
 @extends('layouts.secondary')
 
 @section('titulo')
-    404
+    404 Página No Encontrada
 @endsection
 
 

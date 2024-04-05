@@ -8,6 +8,9 @@
 @section('content')
     <main>
         @include('home.section-1')
+        @include('home.section-2')
+        @include('home.section-3')
+        @include('home.section-7')
     </main>
 @endsection
 

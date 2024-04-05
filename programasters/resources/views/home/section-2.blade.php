@@ -66,9 +66,8 @@
                             </span>
                         </div>
                         <div class="tp-feature__content">
-                            <h4 class="tp-feature__title">Quality Design</h4>
-                            <p>Our online tools make the process as
-                                simple and clear as possible, and</p>
+                            <h4 class="tp-feature__title">Diseño Personalizado</h4>
+                            <p>Nos especializamos en diseño personalizado que refleja tu marca. Trabajamos contigo para crear diseños atractivos y funcionales en todas las plataformas.</p>
                         </div>
                     </div>
                 </div>
@@ -153,9 +152,8 @@
                             </span>
                         </div>
                         <div class="tp-feature__content">
-                            <h4 class="tp-feature__title">Make it mach</h4>
-                            <p>Our online tools make the process as
-                                simple and clear as possible, and</p>
+                            <h4 class="tp-feature__title">Apps Multiplataforma</h4>
+                            <p>Nuestro enfoque de desarrollo multiplataforma te permite llegar a tu audiencia en cualquier dispositivo, ya sea iOS, Android, web o sistemas operativos como Unix, Mac o Windows.</p>
                         </div>
                     </div>
                 </div>
@@ -198,9 +196,8 @@
                             </span>
                         </div>
                         <div class="tp-feature__content">
-                            <h4 class="tp-feature__title">absolutely guranteed</h4>
-                            <p>Our online tools make the process as
-                                simple and clear as possible, and</p>
+                            <h4 class="tp-feature__title">Asesoramiento Real</h4>
+                            <p>Escuchamos tus necesidades y objetivos en cada proyecto, trabajamos contigo en tiempo real para ofrecer las mejores soluciones de desarrollo y diseño que superen tus expectativas.</p>
                         </div>
                     </div>
                 </div>

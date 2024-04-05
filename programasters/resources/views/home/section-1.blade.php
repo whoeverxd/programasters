@@ -26,8 +26,7 @@
                             <span class="tp-hero-subtitle wow tpfadeUp" data-wow-duration=".9s"
                                 data-wow-delay=".3s">Desarrollo Personalizado</span>
 
-                            <h3 class="tp-hero-title wow tpfadeUp mb-3" style="" data-wow-duration=".9s" data-wow-delay=".5s">
-                                Realizamos Tus Proyectos <br> <span class="p-relative" style="">Tiempo Record
+                            <h3 class="tp-hero-title wow tpfadeUp mb-3" style="" data-wow-duration=".9s" data-wow-delay=".5s"><span class="p-relative" style="">Programmasters:
                                     <span class="tp-slider-title-shape">
                                         <svg width="200" height="6" viewBox="0 0 200 6" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
@@ -45,11 +44,11 @@
                                             </defs>
                                         </svg>
                                     </span>
-                                </span> <br></h3>
+                                </span>Innovación y Creatividad en Desarrollo Web y Móvil<br></h3>
                         </div>
                         <div class="tp-hero__left-text wow tpfadeUp" data-wow-duration=".9s"
                             data-wow-delay=".7s">
-                            <p>Hacemos tus aplicaciones y sitios web en tiempo real con la mejor calidad y mantenimiento del mercado</p>
+                            <p>Conectando el mundo digital con soluciones personalizadas y de vanguardia.</p>
                             <a class="tp-main-btn" href="contact.html">Hablemos— Envianos un mensaje
                                 <i>
                                     <svg width="18" height="17" viewBox="0 0 18 17" fill="none"

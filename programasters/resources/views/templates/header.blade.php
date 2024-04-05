@@ -104,6 +104,15 @@
                         </nav>
                     </div>
                 </div>
+                <div class="col-xl-2 col-lg-6 col-md-6 col-sm-6 col-6">
+                    <div class="tp-header__right-box d-flex align-items-center justify-content-end">
+                        <div class="tp-header-2__bar d-xl-none">
+                            <button class="tp-menu-bar">
+                                <i class="fa-solid fa-bars"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
