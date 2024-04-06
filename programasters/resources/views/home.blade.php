@@ -11,6 +11,7 @@
         @include('home.section-2')
         @include('home.section-3')
         @include('home.section-12')
+        @include('templates.first-end')
     </main>
 @endsection
 

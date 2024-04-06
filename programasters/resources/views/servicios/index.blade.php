@@ -11,6 +11,7 @@
         @include('servicios.section-2')
         @include('servicios.section-3')
         @include('servicios.section-4')
+        @include('templates.second-end')
     </main>
 @endsection
 

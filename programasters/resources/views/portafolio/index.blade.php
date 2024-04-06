@@ -11,6 +11,7 @@
         @include('portafolio.section-2')
         @include('portafolio.section-3')
         @include('portafolio.section-4')
+        @include('templates.second-end')
     </main>
 @endsection
 

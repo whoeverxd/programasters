@@ -30,7 +30,7 @@
                                 </span>
                             </span> para empezar?
                         </h3>
-                        <a class="tp-btn-lg" href="{{route("portafolio")}}">¡Conócenos Mejor!
+                        <a class="tp-btn-lg" href="{{route("acerca")}}">¡Conócenos Mejor!
                             <i>
                                 <svg width="18" height="17" viewBox="0 0 18 17" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">

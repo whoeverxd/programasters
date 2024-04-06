@@ -11,6 +11,7 @@
         @include('testimonios.section-2')
         @include('testimonios.section-3')
         @include('testimonios.section-4')
+        @include('templates.first-end')
     </main>
 @endsection
 

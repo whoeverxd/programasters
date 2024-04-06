@@ -8,8 +8,8 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="tp-cta__content text-center">
-                        <h3 class="tp-cta__title">¿Aún no estás <br>
-                            <span class="p-relative">listo
+                        <h3 class="tp-cta__title">¿Quieres empezar tu <br>
+                            <span class="p-relative">desarrollo
                                 <span class="tp-title-shape">
                                     <svg width="147" height="4" viewBox="0 0 147 4" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -28,9 +28,9 @@
                                     </svg>
 
                                 </span>
-                            </span> para empezar?
+                            </span> ahora mismo?
                         </h3>
-                        <a class="tp-btn-lg" href="{{route("portafolio")}}">¡Conócenos Mejor!
+                        <a class="tp-btn-lg" href="{{route("contacto")}}">¡Contactanos!
                             <i>
                                 <svg width="18" height="17" viewBox="0 0 18 17" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">

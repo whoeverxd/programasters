@@ -9,6 +9,7 @@
     <main>
         @include('equipo.section-1')
         @include('equipo.section-2')
+        @include('templates.second-end')
     </main>
 @endsection
 

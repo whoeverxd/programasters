@@ -49,7 +49,7 @@
                         <div class="tp-hero__left-text wow tpfadeUp" data-wow-duration=".9s"
                             data-wow-delay=".7s">
                             <p>Conectando el mundo digital con soluciones personalizadas y de vanguardia.</p>
-                            <a class="tp-main-btn" href="{{route("contacto")}}">Hablemos— Envianos un mensaje
+                            <a class="tp-main-btn" href="{{route("contacto")}}">Hablemos — Envianos un mensaje
                                 <i>
                                     <svg width="18" height="17" viewBox="0 0 18 17" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">

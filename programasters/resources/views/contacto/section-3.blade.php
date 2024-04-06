@@ -16,7 +16,7 @@
                             </span>
                         </div>
                         <div class="tp-contact-4__text">
-                            <h6>Mail address</h6>
+                            <h6>Dirección de Email</h6>
                             <a href="mailto:mehediihasa926@gmail.com">mehediihasa926@gmail.com</a> <br>
                             <span>+998757478492</span>
                         </div>
@@ -34,7 +34,7 @@
                             </span>
                         </div>
                         <div class="tp-contact-4__text">
-                            <h6>Office address</h6>
+                            <h6>Dirección de Oficina</h6>
                             <a href="mailto:mehediihasa926@gmail.com">Head Office: 785 15h Street, <br>
                                 Office 478Berlin, De 81566</a>
                         </div>
@@ -52,7 +52,7 @@
                             </span>
                         </div>
                         <div class="tp-contact-4__text">
-                            <h6>Phone Number</h6>
+                            <h6>Numero Telefonico</h6>
                             <a href="tel:+880123456789">+880 123 456 789 , 9987574 <br> +880 123 456 789 </a>
                         </div>
                      </div>
@@ -72,32 +72,32 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="tp-contact-4__contact-form">
-                        <h5>Drop Us a Line</h5>
-                        <span>Your email address will not be published. Required fields are marked *</span>
+                        <h5>Dejanos un mensaje</h5>
+                        <span>Tu dirección de Email no sera publicada. Los campos marcados con * son requeridos</span>
                         <div class="row">
                             <div class="col-xl-6 mb-30">
                                 <div class="tp-contact-4__input-box">
-                                    <input type="text" placeholder="Enter your name*">
+                                    <input type="text" placeholder="Introduce tu nombre*">
                                 </div>
                             </div>
                             <div class="col-xl-6 mb-30">
                                 <div class="tp-contact-4__input-box">
-                                    <input type="text" placeholder="Enter your mail*">
+                                    <input type="text" placeholder="Introduce tu Email*">
                                 </div>
                             </div>
                             <div class="col-xl-6 mb-30">
                                 <div class="tp-contact-4__input-box">
-                                    <input type="text" placeholder="Enter your number*">
+                                    <input type="text" placeholder="Introduce tu teléfono*">
                                 </div>
                             </div>
                             <div class="col-xl-6 mb-30">
                                 <div class="tp-contact-4__input-box">
-                                    <input type="text" placeholder="website*">
+                                    <input type="text" placeholder="Introduce tu nombre sitio web">
                                 </div>
                             </div>
                             <div class="col-xl-12">
                                 <div class="tp-contact-4__textarea-box">
-                                    <textarea placeholder="Enter your Massage*"></textarea>
+                                    <textarea placeholder="Introduce tu mensaje*"></textarea>
                                 </div>
                             </div>
                             <div class="col-xl-12 col-lg-12">
@@ -105,12 +105,12 @@
                                     <div class="form-check-box">
                                         <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
                                         <label class="form-check-label text-theme" for="flexCheckDefault">
-                                            Save my name, email, and website in this browser for the next time I comment.
+                                            Guardar mi nombre, email, y sitio web en este navegador para la proxima vez que quiera enviar un mensaje.
                                         </label>
                                     </div>
                                 </div>
                                 <div class="tp-contact-4__btn">
-                                    <button type="submit" class="tp-btn-square" >post a comment</button>
+                                    <button type="submit" class="tp-btn-square" >Enviar Mensaje</button>
                                 </div>
                             </div>
                         </div>

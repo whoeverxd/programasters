@@ -94,7 +94,7 @@
                         <nav class="tp-main-menu-content">
                             <ul>
                                 <x-menu-servicios />
-                                <x-menu-equipo />
+                                <x-menu-acerca-de-nosotros />
                                 <x-menu-contacto />
                                 <x-menu-testimonios />
                                 <x-menu-blog />

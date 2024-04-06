@@ -38,7 +38,7 @@
                         <p>Explora nuestra sección de Preguntas Frecuentes (FAQ), un recurso exhaustivo que aborda las consultas más comunes sobre nuestros servicios, procesos y cómo podemos facilitarte el camino.</p>
                     </div>
                     <div class="tp-service-2__text mb-40">
-                        <p>Diseñado para proporcionarte respuestas rápidas y útiles, es tu guía personalizada para entender mejor cómo trabajamos y cómo podemos ayudarte a alcanzar tus objetivos.</p>
+                        <p>Esta sección diseñada para proporcionarte respuestas rápidas y útiles, es tu guía personalizada para entender mejor cómo trabajamos y cómo podemos ayudarte a alcanzar tus objetivos.</p>
                     </div>
                 </div>
             </div>

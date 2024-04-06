@@ -10,6 +10,7 @@
         @include('faq.section-1')
         @include('faq.section-2')
         @include('faq.section-3')
+        @include('templates.first-end')
     </main>
 @endsection
 

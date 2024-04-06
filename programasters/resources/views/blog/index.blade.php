@@ -11,6 +11,7 @@
         @include('blog.section-2')
         @include('blog.section-3')
         @include('blog.section-4')
+        @include('templates.first-end')
     </main>
 @endsection
 

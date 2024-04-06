@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AcercaController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\BlogController;
 use App\Http\Controllers\ContactoController;
@@ -36,3 +37,5 @@ Route::get('/contacto', ContactoController::class)->name('contacto');
 Route::get('/faq', FaqController::class)->name('faq');
 
 Route::get('/equipo', EquipoController::class)->name('equipo');
+
+Route::get('/sobre-nosotros', AcercaController::class)->name('acerca');

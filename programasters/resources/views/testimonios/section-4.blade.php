@@ -1,5 +1,5 @@
 <!-- testimonial-area-start -->
-<div class="tp-testimonial__area p-relative fix purple-bg pt-125 pb-85">
+<div class="tp-testimonial__area p-relative fix purple-bg pt-125 pb-85 mb-50">
     <div class="tp-testimonial__shape-1">
         <img src="assets/img/testimonial/shape-1-1.png" alt="">
     </div>
@@ -11,9 +11,9 @@
             <div class="col-xl-5 col-lg-5">
                 <div class="tp-testimonial__left-box z-index">
                     <div class="tp-testimonial__section-box pb-10">
-                        <span class="tp-section-subtitle text-white">Valuable Feedback</span>
-                        <h3 class="tp-section-title text-white">High Quality
-                            <span class="p-relative">Printing
+                        <span class="tp-section-subtitle text-white">Comentarios Valiosos</span>
+                        <h3 class="tp-section-title text-white">Gran Calidad de
+                            <span class="p-relative">Servicios
                                 <span class="tp-title-shape">
                                     <svg width="172" height="4" viewBox="0 0 172 4" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -32,14 +32,14 @@
                                     </svg>
                                 </span>
                             </span>
-                            Service Australia
+                            de Desarrollo
                         </h3>
                     </div>
                     <div class="tp-testimonial__button">
-                        <p>Beautiful, customizable template, with a ton of
-                            blocks to create an amazing website that</p>
+                        <p>Aquí conocerás algunos testimonios de
+                            nuestros valioso clientes.</p>
                         <div class="d-none d-md-block">
-                            <a class="tp-btn-lg" href="contact.html">Let’s talk — Send a message
+                            <a class="tp-btn-lg" href="{{route("contacto")}}">Hablemos — Envianos un mensaje
                                 <i>
                                     <svg width="18" height="17" viewBox="0 0 18 17" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">

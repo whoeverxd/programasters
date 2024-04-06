@@ -17,10 +17,10 @@
                                 <img src="assets/img/error/thumb-1-1.png" alt="">
                             </div>
                             <div class="tp-error__content mb-40">
-                                <h6 class="tp-error__title">Oops... It looks like you ‘re <span>lost !</span></h6>
-                                <span>Oops! The page you are looking for does not exist. It might have been moved or deleted.</span>
+                                <h6 class="tp-error__title">Ups... ¡Parece que te <span>perdiste!</span></h6>
+                                <span>!Ups! La pagina que estás buscando no existe. Puede que te hayas equivocado de dirección.</span>
                             </div>
-                            <a class="tp-btn-purple-sm" href="index.html">Back To Home</a>
+                            <a class="tp-btn-purple-sm" href="{{route("home")}}">Volver al Inicio</a>
                         </div>
                     </div>
                 </div>

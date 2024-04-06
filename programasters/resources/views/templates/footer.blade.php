@@ -42,6 +42,7 @@
                         <h4 class="tp-footer__widget-title">Nosotros</h4>
                         <div class="tp-footer__list">
                             <ul>
+                                <li><a href="{{route("acerca")}}">Sobre Nosotros</a></li>
                                 <li><a href="{{route("contacto")}}">Contacto</a></li>
                                 <li><a href="{{route("equipo")}}">Equipo</a></li>
                                 <li><a href="{{route("blog")}}">Blog</a></li>
@@ -124,7 +125,7 @@
                             <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
                         </div>
                         <div class="tp-copyright__text text-center">
-                            <span>Full Copyright & Design By <i>@Theme pure</i> – 2023</span>
+                            <span>Copyright © Programmasters {{date("Y")}} - Todos los derechos reservados</span>
                         </div>
                         <div class="tp-copyright__lang d-none d-sm-block">
                             <ul>
@@ -141,10 +142,10 @@
                                     </a>
                                     <ul class="tp-copyright__lang-submenu">
                                         <li>
-                                            <a href="#">Arabic</a>
+                                            <a href="#">Arabe</a>
                                         </li>
                                         <li>
-                                            <a href="#">Spanish</a>
+                                            <a href="#">Ingles</a>
                                         </li>
                                         <li>
                                             <a href="#">Mandarin</a>
