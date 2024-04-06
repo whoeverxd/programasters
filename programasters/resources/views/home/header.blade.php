@@ -84,7 +84,7 @@
                                     </button>
                                 </div>
                                 <div class="tp-header__logo">
-                                    <a href="index.html">
+                                    <a href="{{route("home")}}">
                                         <img src="assets/img/logo/logo.png" alt="">
                                     </a>
                                 </div>

@@ -20,7 +20,7 @@
             <button class="close-btn"><i class="fal fa-times"></i></button>
         </div>
         <div class="tpoffcanvas__logo" style="">
-            <a class="rounded-pill w-50" href="index.html">
+            <a class="rounded-pill w-50" href="{{route("home")}}">
                 <img src="assets/img/logo/logo.png" alt="">
             </a>
         </div>

@@ -6,7 +6,7 @@
               <div class="homemenu-thumb mb-15">
                  <img src="laravel.jpeg" alt="">
                  <div class="homemenu-btn">
-                    <a class="tp-menu-btn" href="index.html">View Demo</a>
+                    <a class="tp-menu-btn" href="index.html">Ver Servicio</a>
                  </div>
               </div>
               <div class="homemenu-content text-center">
@@ -19,7 +19,7 @@
               <div class="homemenu-thumb mb-15">
                  <img src="flutter.png" alt="">
                  <div class="homemenu-btn">
-                    <a class="tp-menu-btn" href="index-2.html">View Demo</a>
+                    <a class="tp-menu-btn" href="index-2.html">Ver Servicio</a>
                  </div>
               </div>
               <div class="homemenu-content text-center">
@@ -32,7 +32,7 @@
               <div class="homemenu-thumb mb-15">
                  <img src="grafico.jpeg" alt="">
                  <div class="homemenu-btn">
-                    <a class="tp-menu-btn" href="index-3.html">View Demo</a>
+                    <a class="tp-menu-btn" href="index-3.html">Ver Servicio</a>
                  </div>
               </div>
               <div class="homemenu-content text-center">
@@ -45,7 +45,7 @@
               <div class="homemenu-thumb mb-15">
                  <img src="unity.webp" alt="">
                  <div class="homemenu-btn">
-                    <a class="tp-menu-btn" href="index-4.html">View Demo</a>
+                    <a class="tp-menu-btn" href="index-4.html">Ver Servicio</a>
                  </div>
               </div>
               <div class="homemenu-content text-center">
@@ -58,7 +58,7 @@
               <div class="homemenu-thumb mb-15">
                  <img src="servidores.jpeg" alt="">
                  <div class="homemenu-btn">
-                    <a class="tp-menu-btn" href="index-5.html">View Demo</a>
+                    <a class="tp-menu-btn" href="index-5.html">Ver Servicio</a>
                  </div>
               </div>
               <div class="homemenu-content text-center">
