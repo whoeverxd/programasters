@@ -15,7 +15,7 @@
                     </div>
                     <div class="tp-about__thumb-text-box">
                         <div class="tp-about__thumb-text">
-                            <span><b>25,000+</b> Customer Worldwide</span>
+                            <span><b>+25.000</b> Usuarios a lo Largo del Mundo</span>
                         </div>
                     </div>
                     <div class="tp-about__shape-1 d-none d-xxl-block">
@@ -44,10 +44,9 @@
             <div class="col-xl-6 col-lg-6 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
                 <div class="tp-about__item-wrap">
                     <div class="tp-about__section-box">
-                        <span class="tp-section-subtitle">About Our Company</span>
-                        <h4 class="tp-section-title pb-15">High Quality
-                            <span class="p-relative">
-                                Printing
+                        <span class="tp-section-subtitle">Sobre Nuestra Compañia</span>
+                        <h4 class="tp-section-title pb-15"><span class="p-relative">
+                                Desarrollamos
                                 <span class="tp-title-shape">
                                     <svg width="172" height="4" viewBox="0 0 172 4" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -66,10 +65,10 @@
                                     </svg>
                                 </span>
                             </span>
-                            Service Australia
+                            tus Soluciones Digitales con la más Alta Calidad.
                         </h4>
-                        <p>Turn digital images into physical products with
-                            Printes – print locally, scale globally.</p>
+                        <p>El alcance de nuestras aplicaciones siempre llegan más allá -
+                            Desarrollo local a una escala global.</p>
                     </div>
                     <div
                         class="tp-about__item-box d-flex align-items-center  justify-content-start justify-content-md-between">
@@ -117,9 +116,9 @@
                                 </span>
                             </div>
                             <div class="tp-about__text">
-                                <h5 class="tp-about__title-sm">Banners Printing</h5>
-                                <p>Attract relevant users
-                                    using specific hashtags.</p>
+                                <h5 class="tp-about__title-sm">Aplicaciones Ergonomicas</h5>
+                                <p>Nuestros desarrollos dominan sus
+                                    diferentes necesidades.</p>
                             </div>
                         </div>
                         <div class="tp-about__item d-flex align-items-start">
@@ -152,9 +151,9 @@
                                 </span>
                             </div>
                             <div class="tp-about__text">
-                                <h5 class="tp-about__title-sm">Business Card Design</h5>
-                                <p>Attract relevant users
-                                    using specific hashtags.</p>
+                                <h5 class="tp-about__title-sm">Pedidos en Tiempo Record</h5>
+                                <p>Nuestro equipo de profesionales
+                                    van más alla de sus espectativas .</p>
                             </div>
                         </div>
                     </div>
@@ -169,7 +168,7 @@
                                             fill="#6B14FA" />
                                     </svg>
                                 </span>
-                                Large paper & stock selection & Unique Print
+                                Desarrollo rápido, confiable y seguro
                             </li>
                             <li>
                                 <span>
@@ -180,7 +179,7 @@
                                             fill="#6B14FA" />
                                     </svg>
                                 </span>
-                                Printing programs tailored to your company needs
+                                Asesoramiento y calidad garantizada
                             </li>
                         </ul>
                     </div>

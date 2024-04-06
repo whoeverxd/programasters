@@ -50,7 +50,7 @@
                     <div class="col-xxl-4 col-xl-5 d-none d-xl-block">
                         <div class="tp-header-top__shop-box text-xl-start text-end">
                             <span>Consulta Gratis para tu proyecto</span>
-                            <a href="#">Agendar</a>
+                            <a href="{{route("contacto")}}">Agendar</a>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-3 col-lg-6 col-md-6  col-sm-6 d-none d-sm-block">
