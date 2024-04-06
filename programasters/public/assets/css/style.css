@@ -1696,7 +1696,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
 }
 .tpoffcanvas__title p {
   font-size: 18px;
-  color: rgba(255, 255, 255, 0.49);
+  color: var(--tp-text-body);
   font-weight: 500;
   line-height: 1.6;
   margin-bottom: 50px;
@@ -1751,7 +1751,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
 }
 .tpoffcanvas__contact-info ul li {
   font-size: 16px;
-  color: var(--tp-common-white);
+  color: var(--tp-text-body);
   margin-bottom: 15px;
   list-style-type: none;
 }
@@ -6617,7 +6617,7 @@ body .ui-tooltip {
 .tp-main-menu-mobile ul li > a {
   display: block;
   font-size: 16px;
-  color: var(--tp-common-white);
+  color: var(--tp-text-body);
   position: relative;
   padding: 15px 0;
   padding-right: 20px;

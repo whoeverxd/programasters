@@ -33,7 +33,7 @@
     width: 480px;
     bottom: 0;
     box-shadow: 0 16px -32px 0 rgba(0, 0, 0, .8);
-    background-color: var(--tp-common-black);
+    background-color: var(--tp-text-body);
     z-index: 999999;
     padding: 50px;
     scrollbar-width: none;
@@ -142,7 +142,7 @@
         & ul {
             & li {
                 font-size: 16px;
-                color: var(--tp-common-white);
+                color: var(--tp-text-body);
                 margin-bottom: 15px;
                 list-style-type: none;
 

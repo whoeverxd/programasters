@@ -15,13 +15,13 @@
 
     <!-- tp-offcanvus-area-start -->
 <div class="tpoffcanvas-area">
-    <div class="tpoffcanvas">
+    <div class="tpoffcanvas" style="background-color: var(--tp-common-white);">
         <div class="tpoffcanvas__close-btn">
             <button class="close-btn"><i class="fal fa-times"></i></button>
         </div>
         <div class="tpoffcanvas__logo" style="">
-            <a href="index.html">
-                <img src="assets/img/logo/white-logo.png" alt="">
+            <a class="rounded-pill w-50" href="index.html">
+                <img src="assets/img/logo/logo.png" alt="">
             </a>
         </div>
         <div class="tpoffcanvas__title">
@@ -31,7 +31,7 @@
         <div class="tp-main-menu-mobile d-xl-none"></div>
         <div class="tpoffcanvas__contact-info">
             <div class="tpoffcanvas__contact-title">
-                <h5>Contact us</h5>
+                <h5>Contactanos</h5>
             </div>
             <ul>
                 <li>
@@ -48,19 +48,6 @@
                     <a href="tel:+48555223224">+48 555 223 224</a>
                 </li>
             </ul>
-        </div>
-        <div class="tpoffcanvas__input">
-            <div class="tpoffcanvas__input-title">
-                <h4>Get UPdate</h4>
-            </div>
-            <form action="#">
-                <div class="p-relative">
-                    <input type="text" placeholder="Enter mail">
-                    <button>
-                        <i class="fas fa-paper-plane"></i>
-                    </button>
-                </div>
-            </form>
         </div>
         <div class="tpoffcanvas__social">
             <div class="social-icon">
