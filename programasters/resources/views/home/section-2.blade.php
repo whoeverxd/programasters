@@ -67,7 +67,7 @@
                         </div>
                         <div class="tp-feature__content">
                             <h4 class="tp-feature__title">Diseño Personalizado</h4>
-                            <p>Nos especializamos en diseño personalizado que refleja tu marca. Trabajamos contigo para crear diseños atractivos y funcionales en todas las plataformas.</p>
+                            <p>No reutilizamos codigo, ni usamos plantillas. Estamos en capacidad de crear tus proyectos desde cero basandonos en tus gustos y necesidades</p>
                         </div>
                     </div>
                 </div>
@@ -153,7 +153,7 @@
                         </div>
                         <div class="tp-feature__content">
                             <h4 class="tp-feature__title">Apps Multiplataforma</h4>
-                            <p>Nuestro enfoque de desarrollo multiplataforma te permite llegar a tu audiencia en cualquier dispositivo, ya sea iOS, Android, web o sistemas operativos como Unix, Mac o Windows.</p>
+                            <p>Podemos desarrollar Apps para todo tipo de dispositivo, ya sea iOS, Android, web o sistemas operativos como Unix, Mac o Windows.</p>
                         </div>
                     </div>
                 </div>
