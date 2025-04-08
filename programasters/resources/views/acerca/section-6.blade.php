@@ -81,7 +81,7 @@
                             </div>
                             <div class="tp-team-4__info-box d-flex align-items-start justify-content-between">
                                 <div class="tp-team-4__info">
-                                    <h6 class="tp-team-4__title"><a href="team.html">FABIOLA DIAZ</a></h6>
+                                    <h6 class="tp-team-4__title"><a href="team.html">FABIOLA DÍAZ</a></h6>
                                     <span>SOFTWARE ENGINEER</span>
                                 </div>
                                 <div class="tp-team-4__icon">
