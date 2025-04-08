@@ -37,8 +37,8 @@
                             </div>
                             <div class="tp-team-4__info-box d-flex align-items-start justify-content-between">
                                 <div class="tp-team-4__info">
-                                    <h6 class="tp-team-4__title"><a href="team.html">Alextina Ditarson</a></h6>
-                                    <span>GRAPHIC DESIGNER</span>
+                                    <h6 class="tp-team-4__title"><a href="team.html">Joshua Hernández</a></h6>
+                                    <span>COMPUTER SCIENTIST</span>
                                 </div>
                                 <div class="tp-team-4__icon">
                                     <button><i class="fas fa-plus"></i></button>
@@ -59,7 +59,7 @@
                             </div>
                             <div class="tp-team-4__info-box d-flex align-items-start justify-content-between">
                                 <div class="tp-team-4__info">
-                                    <h6 class="tp-team-4__title"><a href="team.html">Leslie Alexander</a></h6>
+                                    <h6 class="tp-team-4__title"><a href="team.html">JOSÉ VÁSQUEZ</a></h6>
                                     <span>GRAPHIC DESIGNER</span>
                                 </div>
                                 <div class="tp-team-4__icon">
@@ -81,8 +81,8 @@
                             </div>
                             <div class="tp-team-4__info-box d-flex align-items-start justify-content-between">
                                 <div class="tp-team-4__info">
-                                    <h6 class="tp-team-4__title"><a href="team.html">Brooklyn Simmons</a></h6>
-                                    <span>GRAPHIC DESIGNER</span>
+                                    <h6 class="tp-team-4__title"><a href="team.html">FABIOLA DIAZ</a></h6>
+                                    <span>SOFTWARE ENGINEER</span>
                                 </div>
                                 <div class="tp-team-4__icon">
                                     <button><i class="fas fa-plus"></i></button>
@@ -103,8 +103,8 @@
                             </div>
                             <div class="tp-team-4__info-box d-flex align-items-start justify-content-between">
                                 <div class="tp-team-4__info">
-                                    <h6 class="tp-team-4__title"><a href="team.html">Marvin McKinney</a></h6>
-                                    <span>GRAPHIC DESIGNER</span>
+                                    <h6 class="tp-team-4__title"><a href="team.html">ELIO GUARATE</a></h6>
+                                    <span>SENIOR DEVELOPER</span>
                                 </div>
                                 <div class="tp-team-4__icon">
                                     <button><i class="fas fa-plus"></i></button>
@@ -125,8 +125,8 @@
                             </div>
                             <div class="tp-team-4__info-box d-flex align-items-start justify-content-between">
                                 <div class="tp-team-4__info">
-                                    <h6 class="tp-team-4__title"><a href="team.html">Kathryn Murphy</a></h6>
-                                    <span>GRAPHIC DESIGNER</span>
+                                    <h6 class="tp-team-4__title"><a href="team.html">FERNANDO GONZALEZ</a></h6>
+                                    <span>TRANS - LATOR</span>
                                 </div>
                                 <div class="tp-team-4__icon">
                                     <button><i class="fas fa-plus"></i></button>
@@ -147,8 +147,8 @@
                             </div>
                             <div class="tp-team-4__info-box d-flex align-items-start justify-content-between">
                                 <div class="tp-team-4__info">
-                                    <h6 class="tp-team-4__title"><a href="team.html">Leslie Alexander</a></h6>
-                                    <span>GRAPHIC DESIGNER</span>
+                                    <h6 class="tp-team-4__title"><a href="team.html">ALEJANDRA DÍAZ</a></h6>
+                                    <span>PROJECT MANAGER</span>
                                 </div>
                                 <div class="tp-team-4__icon">
                                     <button><i class="fas fa-plus"></i></button>

@@ -11,16 +11,17 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="tp-about__thumb-box">
                     <div class="tp-about__thumb">
-                        <img src="assets/img/about/about1-1.png" alt="">
+                        <img src="{{asset('wireframe3.webp')}}" style="width:100%" alt="">
                     </div>
                     <div class="tp-about__thumb-text-box">
                         <div class="tp-about__thumb-text">
                             <span><b>+25.000</b> Usuarios a lo Largo del Mundo</span>
                         </div>
                     </div>
-                    <div class="tp-about__shape-1 d-none d-xxl-block">
+                    <!-- <div class="tp-about__shape-1 d-none d-xxl-block">
                         <img src="assets/img/about/about-shape1-1.png" alt="">
                     </div>
+                -->
                     <div class="tp-about__shape-2 d-none d-xxl-block">
                         <img src="assets/img/about/about-shape1-2.png" alt="">
                     </div>

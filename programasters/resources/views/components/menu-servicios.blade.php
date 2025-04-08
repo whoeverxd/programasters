@@ -4,7 +4,7 @@
         <div class="row gx-6 row-cols-1 row-cols-md-2 row-cols-xl-5 row-cols-xxl-5">
            <div class="col homemenu">
               <div class="homemenu-thumb mb-15">
-                 <img src="laravel.jpeg" alt="">
+                 <img src="laravel.png" alt="">
                  <div class="homemenu-btn">
                     <a class="tp-menu-btn" href="index.html">Ver Servicio</a>
                  </div>
@@ -43,7 +43,7 @@
            </div>
            <div class="col homemenu">
               <div class="homemenu-thumb mb-15">
-                 <img src="unity.webp" alt="">
+                 <img src="unity1.png" alt="">
                  <div class="homemenu-btn">
                     <a class="tp-menu-btn" href="index-4.html">Ver Servicio</a>
                  </div>
@@ -56,7 +56,7 @@
            </div>
            <div class="col homemenu">
               <div class="homemenu-thumb mb-15">
-                 <img src="servidores.jpeg" alt="">
+                 <img src="sistema.png" alt="">
                  <div class="homemenu-btn">
                     <a class="tp-menu-btn" href="index-5.html">Ver Servicio</a>
                  </div>

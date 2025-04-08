@@ -74,7 +74,7 @@
                     <div class="tp-hero__thumb-box p-relative text-center text-lg-end">
                         <img src="app.png" alt="">
                         <div class="tp-hero__shape-1 d-none d-xl-block">
-                            <img src="assets/img/hero/hero-shape-1-1.png" alt="">
+                            <img src="{{ asset('hero-shape-1-1.png')}}" style="width:100px" alt="">
                         </div>
                         <div class="tp-hero__shape-2 d-none d-lg-block">
                             <img src="assets/img/hero/hero-shape-1-2.png" alt="">

@@ -36,8 +36,7 @@
             <ul>
                 <li>
                     <i class="fa-light fa-location-dot"></i>
-                    <a href="https://www.google.com/maps/@23.8223586,90.3661283,15z" target="_blank">Melbone st,
-                        Australia, Ny 12099</a>
+                    <a href="https://www.google.com/maps/@23.8223586,90.3661283,15z" target="_blank">Valencia, Venezuela. Edo Carabobo</a>
                 </li>
                 <li>
                     <i class="fas fa-envelope"></i>

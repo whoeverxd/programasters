@@ -197,7 +197,7 @@
                         </div>
                         <div class="tp-feature__content">
                             <h4 class="tp-feature__title">Asesoramiento Real</h4>
-                            <p>Escuchamos tus necesidades y objetivos en cada proyecto, trabajamos contigo en tiempo real para ofrecer las mejores soluciones de desarrollo y diseño que superen tus expectativas.</p>
+                            <p>Nuestro equipo escucha activamente tus necesidades y objetivos, proponiendo soluciones personalizadas que dan vida a tus proyectos</p>
                         </div>
                     </div>
                 </div>
