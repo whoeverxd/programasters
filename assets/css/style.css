@@ -21479,3 +21479,7 @@ p.checkout-coupon input[type=text]:focus {
   width:350px !important;
 }
 /*# sourceMappingURL=style.css.map */
+.tp-main-menu-content > ul {
+  display : flex;
+  justify-content: center;
+}

@@ -18,28 +18,7 @@
                             <span><b>+25.000</b> Usuarios a lo Largo del Mundo</span>
                         </div>
                     </div>
-                    <!-- <div class="tp-about__shape-1 d-none d-xxl-block">
-                        <img src="assets/img/about/about-shape1-1.png" alt="">
-                    </div>
-                -->
-                    <div class="tp-about__shape-2 d-none d-xxl-block">
-                        <img src="assets/img/about/about-shape1-2.png" alt="">
-                    </div>
-                    <div class="tp-about__shape-3">
-                        <img src="assets/img/about/about-shape1-6.png" alt="">
-                    </div>
-                    <div class="tp-about__shape-4 d-none d-xxl-block">
-                        <img src="assets/img/about/about-shape1-3.png" alt="">
-                    </div>
-                    <div class="tp-about__shape-5 d-none d-xxl-block">
-                        <img src="assets/img/about/about-shape1-4.png" alt="">
-                    </div>
-                    <div class="tp-about__shape-6 d-none d-xxl-block">
-                        <img src="assets/img/about/about-shape1-5.png" alt="">
-                    </div>
-                    <div class="tp-about__shape-7 d-none d-xxl-block">
-                        <img src="assets/img/about/about-shape1-7.png" alt="">
-                    </div>
+                 
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
