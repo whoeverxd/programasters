@@ -74,7 +74,7 @@
                                 </span>
                             </div>
                             <div class="tp-footer__text">
-                                <a href="tel:+8060008899">+806 (000) 88 99</a>
+                                <a href="tel:+584244074025">+58 0424 407-4025</a>
                             </div>
                         </div>
                         <div class="tp-footer__contact-item d-flex about-items-center">
@@ -95,7 +95,7 @@
                                 </span>
                             </div>
                             <div class="tp-footer__text">
-                                <a href="mailto:contact@info.com">contact@info.com</a>
+                                <a href="mailto:contacto@programmasters.net">contacto@programmasters.net</a>
                             </div>
                         </div>
                     </div>
