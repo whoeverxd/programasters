@@ -273,7 +273,7 @@ button:focus {
 }
 
 .capitalize {
-  text-transform: capitalize;
+  
 }
 
 input,
@@ -446,7 +446,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   font-weight: 500;
   font-size: 15px;
   text-align: center;
-  text-transform: capitalize;
+  
   position: relative;
   transition: 0.3s;
   background: #FFF;
@@ -489,7 +489,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   font-weight: 700;
   font-size: 14px;
   text-align: center;
-  text-transform: capitalize;
+  
   position: relative;
   transition: 0.3s;
   color: var(--tp-common-white);
@@ -518,7 +518,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   font-weight: 500;
   font-size: 15px;
   text-align: center;
-  text-transform: capitalize;
+  
   position: relative;
   transition: 0.3s;
   background: #FFF;
@@ -564,7 +564,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   font-weight: 500;
   font-size: 15px;
   text-align: center;
-  text-transform: capitalize;
+  
   position: relative;
   transition: 0.3s;
   background: linear-gradient(93.19deg, #FF4D8D 15.64%, #507EFB 84.55%);
@@ -591,7 +591,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   padding-right: 50px;
   font-size: 18px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   color: var(--tp-common-black);
   background: var(--tp-common-white);
   border-radius: 100px;
@@ -650,7 +650,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   padding: 0 25px;
   font-weight: 500;
   font-size: 15px;
-  text-transform: capitalize;
+  
   color: var(--tp-common-black);
   background: var(--tp-common-white);
   border-radius: 100px;
@@ -674,7 +674,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   padding: 0 25px;
   font-weight: 500;
   font-size: 15px;
-  text-transform: capitalize;
+  
   color: var(--tp-common-black);
   border-radius: 100px;
   transition: 0.3s;
@@ -699,7 +699,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   font-weight: 500;
   font-size: 16px;
   text-align: center;
-  text-transform: capitalize;
+  
   position: relative;
   transition: 0.3s;
   background: var(--tp-theme-2);
@@ -724,7 +724,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   font-weight: 500;
   font-size: 18px;
   text-align: center;
-  text-transform: capitalize;
+  
   position: relative;
   transition: 0.3s;
   background: var(--tp-common-purple);
@@ -816,7 +816,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   padding: 0 50px;
   font-weight: 500;
   font-size: 18px;
-  text-transform: capitalize;
+  
   color: var(--tp-common-black);
   transition: 0.3s;
   border: 1px solid #E7F1FE;
@@ -853,7 +853,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   font-weight: 500;
   font-size: 15px;
   border-radius: 30px;
-  text-transform: capitalize;
+  
   color: var(--tp-common-black);
   transition: 0.3s;
   border: 1px solid #E7F1FE;
@@ -1902,7 +1902,7 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
   font-size: 55px;
   font-style: normal;
   font-weight: 500;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px), only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-breadcrumb__title {
@@ -4131,7 +4131,7 @@ body .ui-tooltip {
   font-weight: 500;
   font-size: 14px;
   line-height: 1;
-  text-transform: capitalize;
+  
   color: var(--tp-common-black);
   display: inline-block;
   margin-bottom: 7px;
@@ -4146,7 +4146,7 @@ body .ui-tooltip {
   font-weight: 500;
   font-size: 20px;
   line-height: 1;
-  text-transform: capitalize;
+  
   color: var(--tp-common-purple-2);
   display: inline-block;
   margin-bottom: 18px;
@@ -4166,7 +4166,7 @@ body .ui-tooltip {
   font-weight: 500;
   font-size: 15px;
   text-align: center;
-  text-transform: capitalize;
+  
   background: linear-gradient(92.35deg, #FF4D8D 61.35%, #9C42EB 85.44%, #517EFB 99.89%);
   background-clip: border-box;
   -webkit-background-clip: text;
@@ -4203,7 +4203,7 @@ body .ui-tooltip {
   font-weight: 500;
   line-height: 1.2;
   font-size: 50px;
-  text-transform: capitalize;
+ 
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-section-title {
@@ -4254,7 +4254,7 @@ body .ui-tooltip {
   font-weight: 500;
   line-height: 1.2;
   font-size: 48px;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-section-title-2 {
@@ -4305,7 +4305,6 @@ body .ui-tooltip {
   font-weight: 500;
   line-height: 1.1;
   font-size: 55px;
-  text-transform: capitalize;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-section-title-3 {
@@ -4356,7 +4355,7 @@ body .ui-tooltip {
   font-size: 44px;
   font-weight: 500;
   line-height: 1;
-  text-transform: capitalize;
+
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-section-title-5 {
@@ -4607,7 +4606,7 @@ body .ui-tooltip {
   font-size: 16px;
   font-weight: 500;
   background-color: #FF8717;
-  text-transform: capitalize;
+
   height: 27px;
   line-height: 27px;
   padding: 0px 15px;
@@ -4625,7 +4624,6 @@ body .ui-tooltip {
   font-weight: 500;
   line-height: 1.1;
   font-size: 70px;
-  text-transform: capitalize;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-hero-title {
@@ -4681,7 +4679,7 @@ body .ui-tooltip {
   font-weight: 500;
   line-height: 1.1;
   font-size: 70px;
-  text-transform: capitalize;
+  
   margin-bottom: 0;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
@@ -4733,7 +4731,7 @@ body .ui-tooltip {
   font-weight: 600;
   line-height: 1.1;
   font-size: 75px;
-  text-transform: capitalize;
+  
   margin-bottom: 0;
   color: #fff;
 }
@@ -4786,7 +4784,7 @@ body .ui-tooltip {
   font-size: 70px;
   font-style: normal;
   font-weight: 500;
-  text-transform: capitalize;
+  
   line-height: 1.1;
   color: var(--tp-common-white);
 }
@@ -5323,7 +5321,7 @@ body .ui-tooltip {
   color: var(--tp-common-white);
   font-weight: 500;
   font-size: 16px;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), (max-width: 767px) {
   .tp-header-top__left-box span {
@@ -5346,7 +5344,7 @@ body .ui-tooltip {
   font-size: 16px;
   color: var(--tp-common-white);
   margin-right: 12px;
-  text-transform: capitalize;
+  
 }
 .tp-header-top__shop-box > a {
   font-weight: 500;
@@ -5365,7 +5363,7 @@ body .ui-tooltip {
   font-size: 16px;
   color: var(--tp-common-white);
   font-family: "Satisfy", cursive;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .tp-header-top__right-box span {
@@ -5491,7 +5489,7 @@ body .ui-tooltip {
   color: var(--tp-common-black);
   padding: 34px 0px;
   display: inline-block;
-  text-transform: capitalize;
+  
   transition: 0.3s;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -5551,7 +5549,7 @@ body .ui-tooltip {
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.05em;
-  text-transform: capitalize;
+  
   color: var(--tp-common-black);
 }
 .tp-header__icon-box span {
@@ -5664,7 +5662,7 @@ body .ui-tooltip {
 }
 .tp-header-top-2__text span {
   color: var(--tp-common-white);
-  text-transform: capitalize;
+  
   font-weight: 500;
   font-size: 16px;
 }
@@ -5850,7 +5848,7 @@ body .ui-tooltip {
   color: var(--tp-common-black);
   padding: 29px 0px;
   display: inline-block;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-header-2__main-menu ul li > a {
@@ -5869,7 +5867,7 @@ body .ui-tooltip {
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.05em;
-  text-transform: capitalize;
+  
   color: var(--tp-common-black);
   margin-right: 13px;
 }
@@ -6007,7 +6005,7 @@ body .ui-tooltip {
 .tp-header-2__text p {
   font-size: 20px;
   line-height: 32px;
-  text-transform: capitalize;
+  
   color: #FFFFFF;
 }
 
@@ -6039,7 +6037,7 @@ body .ui-tooltip {
   color: rgba(255, 255, 255, 0.9);
   font-size: 16px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   padding-left: 6px;
   display: inline-block;
 }
@@ -6259,7 +6257,7 @@ body .ui-tooltip {
   color: var(--tp-common-black);
   font-weight: 500;
   font-size: 16px;
-  text-transform: capitalize;
+  
 }
 .tp-header-4__catagori button span.arrow {
   display: inline-block;
@@ -6376,7 +6374,7 @@ body .ui-tooltip {
   color: var(--tp-common-black-2);
   font-size: 15px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   transition: 0.3s;
   padding: 19px 0;
   display: inline-block;
@@ -6447,7 +6445,7 @@ body .ui-tooltip {
   color: var(--tp-common-black);
   font-size: 16px;
   font-weight: 500;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .tp-header-top-5__left-box ul li a {
@@ -6476,7 +6474,7 @@ body .ui-tooltip {
   color: #2A2D32;
   font-size: 16px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   margin-bottom: 0;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -6552,7 +6550,7 @@ body .ui-tooltip {
   padding: 0;
 }
 .tp-main-menu-mobile ul li a {
-  text-transform: capitalize;
+  
 }
 .tp-main-menu-mobile ul li:not(:last-child) > a {
   border-bottom: 1px solid rgba(255, 255, 255, 0.12);
@@ -6747,7 +6745,7 @@ body .ui-tooltip {
   font-size: 15px;
   font-weight: 500;
   letter-spacing: 0.75px;
-  text-transform: capitalize;
+  
 }
 .tp-header-5__value.color ul li > ul.tp-header-5__value-submenu {
   left: 0%;
@@ -6863,7 +6861,7 @@ body .ui-tooltip {
   color: #FFF;
   font-size: 14px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   border-radius: 3px;
   background: #FF8717;
   padding: 11px 25px;
@@ -7841,7 +7839,7 @@ body .ui-tooltip {
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
-  text-transform: capitalize;
+  
   color: #FFFFFF;
   margin-bottom: 42px;
 }
@@ -7980,7 +7978,7 @@ body .ui-tooltip {
   font-size: 150px;
   line-height: 263px;
   text-align: center;
-  text-transform: capitalize;
+  
   color: #FFFFFF;
 }
 @media only screen and (min-width: 1600px) and (max-width: 1800px) {
@@ -8264,13 +8262,13 @@ body .ui-tooltip {
   color: #FF8717;
   font-size: 16px;
   font-weight: 500;
-  text-transform: capitalize;
+  
 }
 .tp-slider-5__content-box span {
   color: var(--tp-common-white);
   font-size: 34px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   display: block;
   padding-bottom: 35px;
 }
@@ -8539,7 +8537,7 @@ body .ui-tooltip {
   font-weight: 500;
   font-size: 24px;
   padding-bottom: 3px;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-feature__title {
@@ -8738,7 +8736,7 @@ body .ui-tooltip {
   font-weight: 600;
   font-size: 18px;
   line-height: 23px;
-  text-transform: capitalize;
+  
   margin-bottom: 10px;
   position: relative;
 }
@@ -8899,7 +8897,7 @@ body .ui-tooltip {
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
-  text-transform: capitalize;
+  
   color: #09052F;
   font-family: var(--tp-ff-heading);
   margin-bottom: 5px;
@@ -8986,7 +8984,7 @@ body .ui-tooltip {
   font-style: normal;
   font-weight: 500;
   line-height: 27px;
-  text-transform: capitalize;
+  
   padding: 0 15px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -9564,7 +9562,7 @@ body .ui-tooltip {
   font-weight: 500;
   font-size: 13px;
   line-height: 25px;
-  text-transform: capitalize;
+  
   color: #FFFFFF;
 }
 .tp-catagori__text p {
@@ -10142,7 +10140,7 @@ body .ui-tooltip {
 .tp-catagori-2__title {
   font-weight: 500;
   font-size: 16px;
-  text-transform: capitalize;
+  
   margin-bottom: 20px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -10255,7 +10253,7 @@ body .ui-tooltip {
 .table-content table td.product-name {
   font-size: 16px;
   font-weight: 400;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .table-content table td.product-name {
@@ -10436,7 +10434,7 @@ body .ui-tooltip {
 .cart-page-total > h2 {
   font-size: 25px;
   margin-bottom: 20px;
-  text-transform: capitalize;
+  
 }
 
 .cart-page-total > ul {
@@ -10986,7 +10984,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 22px;
   font-style: normal;
   font-weight: 500;
-  text-transform: capitalize;
+  
   color: var(--tp-common-white);
   font-family: var(--tp-ff-heading);
 }
@@ -12268,7 +12266,7 @@ p.checkout-coupon input[type=text]:focus {
   font-family: Pacifico;
   font-size: 90px;
   font-weight: 400;
-  text-transform: capitalize;
+  
 }
 .tp-service-2__icon {
   position: absolute;
@@ -12383,14 +12381,14 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 16px;
   font-weight: 500;
   line-height: 28.8px;
-  text-transform: capitalize;
+  
   transition: 0.3s;
   display: block;
 }
 .tp-service-3__title {
   font-size: 22px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   transition: 0.3s;
   margin-bottom: 5px;
   position: relative;
@@ -12469,7 +12467,7 @@ p.checkout-coupon input[type=text]:focus {
 .tp-service-details-title {
   font-size: 24px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   color: var(--tp-common-black-3);
   margin-bottom: 15px;
 }
@@ -12549,7 +12547,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 48px;
   font-weight: 400;
   line-height: 1.4;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 1600px) and (max-width: 1800px) {
   .tp-service-details-top-title h5 {
@@ -12862,7 +12860,7 @@ p.checkout-coupon input[type=text]:focus {
   font-family: "Syne", sans-serif;
   padding-left: 45px;
   padding-right: 130px;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-work-2__form form input {
@@ -12910,7 +12908,7 @@ p.checkout-coupon input[type=text]:focus {
   line-height: 19px;
   color: var(--tp-common-white);
   font-family: "Syne", sans-serif;
-  text-transform: capitalize;
+  
 }
 .tp-work-2__btn button svg {
   display: inline-block;
@@ -12972,7 +12970,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 600;
   font-size: 27px;
   font-family: "Syne", sans-serif;
-  text-transform: capitalize;
+  
   color: var(--tp-common-white);
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -13002,7 +13000,7 @@ p.checkout-coupon input[type=text]:focus {
   background: #5748FF;
 }
 .tp-work-2__thumb-text-2 span {
-  text-transform: capitalize;
+  
   color: var(--tp-common-white);
   font-weight: 600;
   font-size: 20px;
@@ -13048,7 +13046,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 23px;
   font-family: var(--tp-ff-heading);
   margin-bottom: 15px;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-process-2__title {
@@ -13401,7 +13399,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
-  text-transform: capitalize;
+  
   margin-bottom: 25px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 576px) and (max-width: 767px) {
@@ -13502,7 +13500,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 36px;
   font-weight: 500;
   line-height: 32.4px;
-  text-transform: capitalize;
+  
   padding-bottom: 10px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -13520,7 +13518,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 30px;
   font-weight: 500;
   line-height: 32.4px;
-  text-transform: capitalize;
+  
   padding-bottom: 10px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -14490,7 +14488,7 @@ p.checkout-coupon input[type=text]:focus {
 .tp-contact-3__address-item h5 {
   font-size: 24px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   padding-bottom: 10px;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
@@ -14574,7 +14572,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 18px;
   font-family: var(--tp-ff-heading);
   font-weight: 400;
-  text-transform: capitalize;
+  
   border-bottom: 1px solid #EBEDF5;
   padding-left: 0;
   margin-bottom: 55px;
@@ -14610,7 +14608,7 @@ p.checkout-coupon input[type=text]:focus {
   border-bottom: 1px solid #EBEDF5;
   line-height: 30px;
   margin-bottom: 30px;
-  text-transform: capitalize;
+  
 }
 .tp-contact-3__textarea textarea:focus {
   border-color: var(--tp-theme-2);
@@ -14743,7 +14741,7 @@ p.checkout-coupon input[type=text]:focus {
   color: var(--tp-common-black-3);
   font-size: 24px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   margin-bottom: 14px;
   transition: 0.3s;
 }
@@ -14805,7 +14803,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #08151F;
   font-size: 38px;
   font-weight: 600;
-  text-transform: capitalize;
+  
   margin-bottom: 30px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -14945,7 +14943,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 23px;
   font-weight: 500;
   line-height: 28.4px;
-  text-transform: capitalize;
+  
   margin-bottom: 25px;
 }
 .tp-register__form-title span {
@@ -15061,7 +15059,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 16px;
   line-height: 23px;
-  text-transform: capitalize;
+  
   margin-bottom: 10px;
   transition: 0.3s;
 }
@@ -15268,7 +15266,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 16px;
   line-height: 23px;
-  text-transform: capitalize;
+  
   margin-bottom: 10px;
   transition: 0.3s;
 }
@@ -15435,7 +15433,7 @@ p.checkout-coupon input[type=text]:focus {
   font-style: normal;
   font-weight: 500;
   padding-bottom: 35px;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-best-product-4__title {
@@ -15454,7 +15452,7 @@ p.checkout-coupon input[type=text]:focus {
   color: var(--tp-common-white);
   font-size: 17px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   display: block;
   position: relative;
 }
@@ -15557,7 +15555,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 16px;
   line-height: 23px;
-  text-transform: capitalize;
+  
   margin-bottom: 5px;
   transition: 0.3s;
 }
@@ -15596,7 +15594,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #787981;
   font-size: 15px;
   font-weight: 400;
-  text-transform: capitalize;
+  
   display: block;
   margin-bottom: 55px;
 }
@@ -15604,7 +15602,7 @@ p.checkout-coupon input[type=text]:focus {
   color: var(--tp-common-black);
   font-size: 24px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   padding-bottom: 5px;
   transition: 0.3s;
 }
@@ -15674,7 +15672,7 @@ p.checkout-coupon input[type=text]:focus {
   color: var(--tp-grey-4);
   font-size: 16px;
   font-weight: 500;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .tp-product-5__content span {
@@ -15685,7 +15683,7 @@ p.checkout-coupon input[type=text]:focus {
   color: var(--tp-common-black);
   font-size: 21px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   margin-bottom: 10px;
   transition: 0.3s;
 }
@@ -15821,7 +15819,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 16px;
   margin-bottom: 0;
-  text-transform: capitalize;
+  
   line-height: 45px;
   transition: 0.3s;
 }
@@ -15946,7 +15944,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #5F6C76;
   font-size: 14px;
   font-weight: 400;
-  text-transform: capitalize;
+  
   display: inline-block;
   padding-right: 10px;
 }
@@ -16067,7 +16065,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 16px;
   margin-bottom: 0;
-  text-transform: capitalize;
+  
   line-height: 45px;
   transition: 0.3s;
 }
@@ -16714,7 +16712,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 24px;
   color: var(--tp-common-black);
   font-weight: 700;
-  text-transform: capitalize;
+  
 }
 @media (max-width: 767px) {
   .tp-comments-title {
@@ -16759,7 +16757,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 24px;
   color: var(--tp-common-black);
   font-weight: 700;
-  text-transform: capitalize;
+  
 }
 
 .tp-product-slider-title {
@@ -16805,7 +16803,7 @@ p.checkout-coupon input[type=text]:focus {
   font-family: var(--tp-ff-heading);
   font-size: 18px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   padding-bottom: 5px;
   margin-bottom: 20px;
 }
@@ -16857,7 +16855,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #77787B;
   font-size: 14px;
   font-weight: 500;
-  text-transform: capitalize;
+  
   display: inline-block;
   padding: 0 15px;
   height: 36px;
@@ -16885,7 +16883,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  text-transform: capitalize;
+  
   padding-left: 25px;
   position: relative;
   cursor: pointer;
@@ -17101,7 +17099,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 18px;
   line-height: 30px;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-business__title {
@@ -17217,7 +17215,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 22px;
   line-height: 30px;
-  text-transform: capitalize;
+  
   padding-bottom: 5px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -17326,7 +17324,7 @@ p.checkout-coupon input[type=text]:focus {
   color: var(--tp-common-white);
   font-size: 20px;
   line-height: 32px;
-  text-transform: capitalize;
+  
   padding-bottom: 35px;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
@@ -18000,7 +17998,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 16px;
   font-family: var(--tp-ff-heading);
   font-weight: 400;
-  text-transform: capitalize;
+  
   color: #09052F;
 }
 @media (max-width: 767px) {
@@ -18216,12 +18214,12 @@ p.checkout-coupon input[type=text]:focus {
   color: #625E6C;
   font-size: 14px;
   font-weight: 500;
-  text-transform: capitalize;
+  
 }
 .tp-testimonial-5__title-sm {
   font-size: 20px;
   font-weight: 500;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-testimonial-5__title-sm {
@@ -18590,7 +18588,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 36px;
   font-weight: 500;
   line-height: 1.5;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-brand-6__title {
@@ -18646,7 +18644,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 45px;
   line-height: 1.2;
-  text-transform: capitalize;
+  
   color: #FFFFFF;
   margin-bottom: 30px;
 }
@@ -18795,7 +18793,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 55px;
   font-weight: 500;
   line-height: 1.1;
-  text-transform: capitalize;
+  
   margin-bottom: 40px;
 }
 @media only screen and (min-width: 1600px) and (max-width: 1800px) {
@@ -19037,7 +19035,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 24px;
   font-weight: 500;
   line-height: 34px;
-  text-transform: capitalize;
+  
   padding-right: 30px;
   padding-bottom: 7px;
   transition: 0.3s;
@@ -19221,7 +19219,7 @@ p.checkout-coupon input[type=text]:focus {
   line-height: 60px;
   background: var(--tp-common-white);
   padding: 0 25px;
-  text-transform: capitalize;
+  
   border: 1px solid #fff;
   outline: none;
   padding-right: 50px;
@@ -19274,7 +19272,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 400;
   font-size: 14px;
   color: #77787B;
-  text-transform: capitalize;
+  
   padding: 6px 22px;
   margin-right: 5px;
   background-color: var(--tp-common-white);
@@ -20451,7 +20449,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 22px;
   line-height: 28px;
-  text-transform: capitalize;
+  
   color: #FFFFFF;
   font-family: var(--tp-ff-heading);
   margin-bottom: 29px;
@@ -20521,7 +20519,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 15px;
   line-height: 19px;
   text-decoration-line: underline;
-  text-transform: capitalize;
+  
   color: #FFFFFF;
   font-family: var(--tp-ff-heading);
 }
@@ -20537,7 +20535,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .tp-footer-2__text span strong {
   color: #DD1D26;
-  text-transform: capitalize;
+  
   text-decoration-line: underline;
 }
 
@@ -20705,7 +20703,7 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 18px;
   font-weight: 500;
   line-height: 1;
-  text-transform: capitalize;
+  
   padding-top: 9px;
   padding-bottom: 20px;
   font-family: var(--tp-ff-heading);
@@ -20790,7 +20788,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 18px;
   line-height: 28px;
-  text-transform: capitalize;
+  
   font-family: var(--tp-ff-heading);
   margin-bottom: 29px;
   padding-top: 8px;
@@ -20808,7 +20806,7 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
   font-size: 16px;
   transition: 0.3s;
-  text-transform: capitalize;
+  
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-footer-5__list ul li a {
