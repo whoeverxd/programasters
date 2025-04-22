@@ -3,7 +3,7 @@
     <div class="container">
         <div class="tp-cta__bg p-relative" data-background="assets/img/cta/cta-bg-1.png">
             <div class="tp-cta__thumb d-none d-xl-block">
-                <img src="assets/img/cta/cta-1.png" alt="">
+                <img src="{{ asset('ready.png')}}" style="width:350px;" alt="">
             </div>
             <div class="row">
                 <div class="col-xl-12">

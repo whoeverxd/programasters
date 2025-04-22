@@ -5,10 +5,10 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="tp-business__left-thumb text-center text-lg-start">
-                        <img class="mb-30" style="width:80%;" src="{{asset('12step.png')}}" alt="">
-                        <img class="mb-30" style="width:80%;" src="{{asset('23step.png')}}" alt="">
-                        <img class="mb-30" style="width:80%;" src="{{asset('23step.png')}}" alt="">
-
+                        <img class="mb-30" style="width:380px;" src="{{asset('12step.png')}}" alt="">
+                        <img class="mb-30" style="width:380px;" src="{{asset('23step.png')}}" alt="">
+                        <img class="mb-30" style="width:380px;" src="{{asset('step45.png')}}" alt="">
+                        <img class="mb-30" style="width:380px;" src="{{asset('step56.png')}}" alt="">
                         <div class="tp-business__shape-1 d-none d-md-block">
                             <img src="assets/img/business/shape-1-1.png" alt="">
                         </div>

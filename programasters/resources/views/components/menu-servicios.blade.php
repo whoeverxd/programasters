@@ -30,7 +30,7 @@
            </div>
            <div class="col homemenu">
               <div class="homemenu-thumb mb-15">
-                 <img src="grafico.jpeg" alt="">
+                 <img src="{{ asset('cloud.png')}}" alt="">
                  <div class="homemenu-btn">
                     <a class="tp-menu-btn" href="index-3.html">Ver Servicio</a>
                  </div>

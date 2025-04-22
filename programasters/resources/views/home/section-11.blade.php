@@ -1,7 +1,7 @@
 <!-- cta-area-start -->
 <div class="tp-cta__area tp-cta__grey-bg">
     <div class="container">
-        <div class="tp-cta__bg p-relative" data-background="assets/img/cta/cta-bg-1.png">
+        <div class="tp-cta__bg p-relative" data-background="{{asset('ready.png')}}">
             <div class="tp-cta__thumb d-none d-xl-block">
                 <img src="assets/img/cta/cta-1.png" alt="">
             </div>
